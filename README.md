@@ -5,7 +5,7 @@ This repository highlights selected projects from my 7-week internship at **Hond
 ## Documented Projects
 ### 1. Rim Pallet Structural Assessment
 Evaluated the structural stability and safety of stacked rim pallets in the logistics workflow. Identified deformation and load-related risks, and proposed retrofit designs to enhance safety and consistency.
-[Read Report](./RimPalletAssessment/rim_pallet_assessment.pdf)
+[Read Report](./RimPalletStructureAnalysis/Rim_pallet_analysis.pdf)
 
 ### 2. Steel Chute Stability Analysis 
 Conducted a detailed analysis of an interconnected steel chute system used for part transfer and storage. Developed an Excel-based tool to simulate chute stability under varying configurations and loads.
