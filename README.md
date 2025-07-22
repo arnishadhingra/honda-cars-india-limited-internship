@@ -2,6 +2,8 @@
 **Part Logistic and Control (PLC) Department | Summer 2025**
 This repository highlights selected projects from my 7-week internship at **Honda Cars India Ltd.**, where I worked in the **Part Logistic and Control (PLC)** department. My focus was on structural assessments and optimization initiatives in a dynamic industrial environment.
 
+A brief summary of all projects and contributions can be found in the [Internship Report](./Internship Report.pdf)
+
 ## Documented Projects
 ### 1. Rim Pallet Structural Assessment
 Evaluated the structural stability and safety of stacked rim pallets in the logistics workflow. Identified deformation and load-related risks, and proposed retrofit designs to enhance safety and consistency.
