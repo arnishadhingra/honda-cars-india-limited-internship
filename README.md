@@ -9,7 +9,7 @@ Evaluated the structural stability and safety of stacked rim pallets in the logi
 
 ### 2. Steel Chute Stability Analysis 
 Conducted a detailed analysis of an interconnected steel chute system used for part transfer and storage. Developed an Excel-based tool to simulate chute stability under varying configurations and loads.
-[Read Report](./ChuteStabilityTool/Chute%20system.pdf)
+[Read Report](./ChuteStabilityTool/Chute_system_analysis.pdf)
 
 ## Other Key Contributions
 - **Layout Replanning of KD Unit**  
